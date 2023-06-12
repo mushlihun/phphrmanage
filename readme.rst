@@ -1,9 +1,9 @@
 ###################
 hr-payroll Human resource management system (HRM) 
 ###################
-**I am available for PHP,Laravel,Codeigniter work, check out my Fiverr profile:**
+**I am available for PHP,Laravel,Codeigniter work, check out my github profile:**
 
-Url: http://www.fiverr.com/s2/0e44853c56
+Url: https://github.com/mushlihun
 
 **Or Contact email address:**
 
